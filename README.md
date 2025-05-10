@@ -6,20 +6,6 @@ PatientPro is a complete healthcare management platform built with Next.js, Appw
 
 ---
 
-## **Why This Project Matters**
-
-Modern healthcare systems require seamless digital interaction between patients and providers. Scheduling inefficiencies, communication delays, and disconnected admin workflows lead to frustration and lost productivity. PatientPro solves these issues by integrating patient registration, secure backend management, real-time scheduling, and communication — all in one platform.
-
-This project also reflects my ability to design scalable, full-stack applications using a modern tech stack, combining performance, design, and user experience.
-
----
-
-## **How I Came Up With This Idea**
-
-I’ve personally experienced the frustration of dealing with slow, disorganized healthcare systems — from missed appointments to unclear communication. As a Computer Science student, I’ve always wanted to apply my skills to bring real change to people’s lives. That’s what motivated me to build **PatientPro** — a tool that bridges the gap between patients and providers through smart, efficient technology. Contributing to the healthcare system, even in a small way, felt like the right step toward something meaningful.
-
----
-
 ## **Tech Stack**
 
 **Frontend**: Next.js, TypeScript, Tailwind CSS, ShadCN  
@@ -63,6 +49,20 @@ Patients or admins can upload documents securely using Appwrite’s built-in sto
 Errors and performance metrics are captured using the Sentry SDK for Next.js, providing full visibility into production issues.
 
 ...and many more, including modular architecture, reusable UI components, and strong typing via TypeScript.
+
+---
+
+## **Why This Project Matters**
+
+Modern healthcare systems require seamless digital interaction between patients and providers. Scheduling inefficiencies, communication delays, and disconnected admin workflows lead to frustration and lost productivity. PatientPro solves these issues by integrating patient registration, secure backend management, real-time scheduling, and communication — all in one platform.
+
+This project also reflects my ability to design scalable, full-stack applications using a modern tech stack, combining performance, design, and user experience.
+
+---
+
+## **How I Came Up With This Idea**
+
+I’ve personally experienced the frustration of dealing with slow, disorganized healthcare systems — from missed appointments to unclear communication. As a Computer Science student, I’ve always wanted to apply my skills to bring real change to people’s lives. That’s what motivated me to build **PatientPro** — a tool that bridges the gap between patients and providers through smart, efficient technology. Contributing to the healthcare system, even in a small way, felt like the right step toward something meaningful.
 
 ---
 
